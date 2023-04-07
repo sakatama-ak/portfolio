@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # portfolio
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# portfolio
+>>>>>>> f7130c5a86ccb43fc2aeced6282d74f359e9d956
